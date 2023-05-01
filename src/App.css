@@ -5,3 +5,20 @@
 .container{
   overflow: auto;
 }
+
+.leftView h3{
+ font-size: 21px;
+}
+
+.leftView p{
+  font-weight: 600;
+}
+.rightView h3{
+  font-size: 21px;
+ }
+ 
+ .rightView p{
+   font-weight: 600;
+ }
+
+ 
